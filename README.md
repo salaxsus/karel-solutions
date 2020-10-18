@@ -9,7 +9,8 @@ Wenn man am Verzweifeln ist oder seine Lösung vergleichen möchte, finden sich 
   - [1.1.3 (defuseTwoBombs)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.1.3%20defuseTwoBombs/solution.karel)
   - [1.1.4 (practiceHomeRun)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.1.4%20practiceHomeRun/solution.karel)
   - [1.2.1 (climbTheStairs)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.2.1%20climbTheStairs/solution.karel)
-  - [1.2.2 (fillTheHoles)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.2.2%20fillTheHoles/solution.karel)
+  - [1.2.2 (fillTheHoles)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.2.2%20fillTheHoles/solution.karel
+  - [1.2.3 (saveTheFlower)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.2.3%20saveTheFlower/solution.karel)
   - [1.2.4 (mowTheLawn)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.2.4%20mowTheLawn/solution.karel)
   - [1.3.1 (harvestTheField)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.3.1%20harvestTheField/solution.karel)
   - [1.4.3 (walkTheLabyrinth)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.3%20walkTheLabyrinth/solution.karel)
