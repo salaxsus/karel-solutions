@@ -21,6 +21,7 @@ Wenn man am Verzweifeln ist oder seine Lösung vergleichen möchte, finden sich 
   - [1.4.3 (walkTheLabyrinth)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.3%20walkTheLabyrinth/solution.karel)
   - [2.1.1 (hangTheLampions)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.1.1%20hangTheLampions)
   - [2.4.2 (quantize)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.4.2%20quantize)
+  - [3.1.1 (partyAgain)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.1.1%20partyAgain)
   - [3.1.2 (fetchTheStars)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.1.2%20fetchTheStars)
 
 ## Lizenz
