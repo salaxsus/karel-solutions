@@ -17,6 +17,7 @@ Wenn man am Verzweifeln ist oder seine Lösung vergleichen möchte, finden sich 
   - [1.3.3 (cleanTheRoom)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.3.3%20cleanTheRoom/solution.karel)
   - [1.3.4 (tileTheFloor)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.3.3%20tileTheFloor)
   - [1.4.1 (stealOlympicFire)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.1%20stealOlympicFire)
+  - [1.4.2 (removeTheTiles)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.2%20removeTheTiles)
   - [1.4.3 (walkTheLabyrinth)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.3%20walkTheLabyrinth/solution.karel)
 
 ## Lizenz
