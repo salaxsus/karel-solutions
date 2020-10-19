@@ -23,6 +23,7 @@ Wenn man am Verzweifeln ist oder seine Lösung vergleichen möchte, finden sich 
   - [2.4.2 (quantize)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.4.2%20quantize)
   - [3.1.1 (partyAgain)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.1.1%20partyAgain)
   - [3.2.1 (secureTheCave)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.2.1%20secureTheCave)
+  - [3.3.1 (findShelters)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.3.1%20findShelters)
 
 ## Lizenz
 

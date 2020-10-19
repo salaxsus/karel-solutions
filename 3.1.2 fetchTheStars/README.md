@@ -20,16 +20,12 @@ void column() {
 
 void walkAndPick() {
     if (frontIsClear()) {
-        walk();
+        moveForward();
+        walkAndPick();
+        moveForward();
     } else {
         pickBeeper();
         turnAround();   
     }
-}
-
-void walk() {
-    moveForward();
-    walkAndPick();
-    moveForward();
 }
 ```
