@@ -1,6 +1,11 @@
 # Lösungen für Karel
 
-Wenn man am Verzweifeln ist oder seine Lösung vergleichen möchte, finden sich hier meine Lösungen.
+**Wichtiger Hinweis:**  
+Ein geschriebenes Programm zu verstehen, ist um einiges leichter, als es selbst zu programmieren. Diese Lösungen sind dazu gedacht,
+sie mit seiner eigenen Lösung zu vergleichen.  
+Wenn du mit deinem Code nicht weiterkommst, frag am besten im Discord unter #karel nach, wir freuen uns, dir zu helfen! :wink:
+
+[Karel](https://github.com/fredoverflow/karel) ist eine Software für Programmieranfänger.
 
 ## Inhalt
   - [0.0.1 (karolsFirstProgram)](https://github.com/lukasnehrke/karel-solutions/blob/main/0.0.1%20karolsFirstProgram/solution.karel)
