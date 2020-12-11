@@ -20,5 +20,7 @@ void stealOlympicFire() {
     repeat (6) {
         moveForward();
     }
+    turnLeft();
+    moveForward();
 }
 ```
