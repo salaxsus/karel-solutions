@@ -9,8 +9,8 @@ Für jede Spalte muss Karel einen Beeper aufheben und ihn am anderen Ende wieder
 ```java
 void hangTheLampions() {
     while (onBeeper()) {
-        pickBeeper();
         turnLeft();
+        pickBeeper();
         while (frontIsClear()) {
             moveForward();
         }
