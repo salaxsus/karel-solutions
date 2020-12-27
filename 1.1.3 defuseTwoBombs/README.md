@@ -1,3 +1,8 @@
+# 1.1.3 defuseTwoBombs
+
+## Lösung
+
+```java
 void defuseTwoBombs() {
     defuseBomb();
     turnLeft();
@@ -17,3 +22,4 @@ void moveNineForward() {
         moveForward();
     }
 }
+```

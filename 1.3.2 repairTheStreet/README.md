@@ -1,3 +1,8 @@
+# 1.3.2 repairTheStreet
+
+## Lösung
+
+```java
 void repairTheStreet() {
     repeat (9) {
         maybeRepair();
@@ -15,3 +20,4 @@ void maybeRepair() {
         turnRight();
     }
 }
+```

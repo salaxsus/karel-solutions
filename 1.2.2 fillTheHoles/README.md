@@ -1,3 +1,8 @@
+# 1.2.2 fillTheHoles
+
+## Lösung
+
+```java
 void fillTheHoles() {
     repeat (4) {
         moveForward();
@@ -14,3 +19,4 @@ void fillHole() {
     moveForward();
     turnRight();
 }
+```

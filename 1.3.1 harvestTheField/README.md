@@ -1,3 +1,8 @@
+# 1.3.1 harvestTheField
+
+## Lösung
+
+```java
 void harvestTheField() {
     repeat (2) {
         pick();
@@ -20,3 +25,4 @@ void pick() {
         turnLeft();
     }
 }
+```

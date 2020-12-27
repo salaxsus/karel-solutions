@@ -1,3 +1,8 @@
+# 1.3.3 cleanTheRoom
+
+## Lösung
+
+```java
 void cleanTheRoom() {
     repeat (4) {
         moveRight();
@@ -35,3 +40,4 @@ void maybePick() {
         pickBeeper();
     }
 }
+```

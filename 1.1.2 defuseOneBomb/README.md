@@ -1,3 +1,8 @@
+# 1.1.2 defuseOneBomb
+
+## Lösung
+
+```java
 void defuseOneBomb() {
     moveNineForward();
     pickBeeper();
@@ -11,3 +16,4 @@ void moveNineForward() {
         moveForward();
     }
 }
+```

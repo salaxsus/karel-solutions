@@ -1,3 +1,8 @@
+# 1.2.4 mowTheLawn
+
+## Lösung
+
+```java
 void mowTheLawn() {
     repeat (2) {
         pick();
@@ -29,3 +34,4 @@ void turnUpRight() {
     moveForward();
     turnRight();
 }
+```

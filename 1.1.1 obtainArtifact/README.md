@@ -1,3 +1,8 @@
+# 1.1.1 obtainArtefact
+
+## Lösung
+
+```java
 void obtainArtifact() {
   turnRight();
   moveForward();
@@ -17,3 +22,4 @@ void obtainArtifact() {
   moveForward();
   dropBeeper();
 }
+```

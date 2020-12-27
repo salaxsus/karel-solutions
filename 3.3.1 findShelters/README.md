@@ -1,6 +1,6 @@
 # 3.3.1 findShelters
 
-## Lösungen
+## Lösung
 
 ```java
 void findShelters() {
