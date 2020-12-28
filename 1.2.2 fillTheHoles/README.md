@@ -6,17 +6,13 @@
 void fillTheHoles() {
     repeat (4) {
         moveForward();
-        fillHole();
+        turnRight();
+        moveForward();
+        dropBeeper();
+        turnAround();
+        moveForward();
+        turnRight();
         moveForward();
     }
-}
-
-void fillHole() {
-    turnRight();
-    moveForward();
-    dropBeeper();
-    turnAround();
-    moveForward();
-    turnRight();
 }
 ```
