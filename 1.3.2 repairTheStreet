@@ -8,6 +8,7 @@ void repairTheStreet() {
         maybeRepair();
         moveForward();
     }
+    maybeRepair();
 }
 
 void maybeRepair() {
