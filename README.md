@@ -3,7 +3,7 @@
 **Wichtiger Hinweis:**  
 Ein geschriebenes Programm zu verstehen, ist um einiges leichter, als es selbst zu programmieren. Diese Lösungen sind dazu gedacht,
 sie mit seiner eigenen Lösung zu vergleichen.  
-Wenn du mit deinem Code nicht weiterkommst, frag am besten im Discord unter #karel nach, wir freuen uns, dir zu helfen! :wink:
+Wenn du mit deinem Code nicht weiterkommst, frag am besten im Discord unter [#karel](https://discord.gg/steenfatt) nach, wir freuen uns, dir zu helfen! :wink:
 
 [Karel](https://github.com/fredoverflow/karel) ist eine Software für Programmieranfänger.
 
@@ -26,6 +26,7 @@ Wenn du mit deinem Code nicht weiterkommst, frag am besten im Discord unter #kar
   - [1.4.3 (walkTheLabyrinth)](https://github.com/lukasnehrke/karel-solutions/blob/main/1.4.3%20walkTheLabyrinth)
   - [2.1.1 (hangTheLampions)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.1.1%20hangTheLampions)
   - [2.1.2 (followTheSeeds)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.1.2%20followTheSeeds)
+  - [2.1.3 (cleanTheTunnels)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.1.3%20cleanTheTunnels)
   - [2.4.2 (quantize)](https://github.com/lukasnehrke/karel-solutions/blob/main/2.4.2%20quantize)
   - [3.1.1 (partyAgain)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.1.1%20partyAgain)
   - [3.2.1 (secureTheCave)](https://github.com/lukasnehrke/karel-solutions/blob/main/3.2.1%20secureTheCave)
