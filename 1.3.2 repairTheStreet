@@ -22,3 +22,33 @@ void maybeRepair() {
     }
 }
 ```
+#### 1.3.2 repairTheStreet
+void repairTheStreet()
+{
+    repeat (10)
+    {
+        if (rightIsClear())
+        {
+            repair();    
+        }
+        else if (frontIsClear())
+        {
+            moveForward();
+        }
+    }
+}
+
+void repair()
+{
+    turnRight();
+    moveForward();
+    turnAround();
+    dropBeeper();
+    moveForward();
+    turnRight();
+    if(frontIsClear())
+    {
+    moveForward();
+    }
+    
+}
